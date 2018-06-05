@@ -33,5 +33,5 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: true
+  hidden: false
   default: person
